@@ -1,0 +1,27 @@
+<suite name="Suite">
+	<test name="LoginTest" enabled="true">
+		<classes>
+			<class name="tests.LoginTest" />
+		</classes>
+	</test>
+	<test name="TextBoxTest" enabled="true">
+		<classes>
+			<class name="tests.TextBoxTest" />
+		</classes>
+	</test>
+	<test name="CheckBoxTest" enabled="true">
+		<classes>
+			<class name="tests.CheckBoxTest" />
+		</classes>
+	</test>
+	<test name="RadioButtonTest" enabled="true">
+		<classes>
+			<class name="tests.RadioButtonTest" />
+		</classes>
+	</test>
+	<test name ="WebTableTest" enabled ="true">
+	<classes>
+	<class name = "tests.WebTableTest"/>
+	</classes>
+	</test>
+</suite>
